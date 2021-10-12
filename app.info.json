@@ -1,0 +1,12 @@
+{
+  "app_name": "subscription-inventory",
+  "src_hash": "ea88f9c75afd6b583b45bf769dadc94dc4398e21",
+  "src_tag": "",
+  "src_branch": "main",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.125.3","@patternfly/react-core@4.147.0","@patternfly/react-table@4.29.37"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "20",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/subscription-inventory-ui/builds/239658406"
+  }
+}
