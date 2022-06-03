@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksubscription_inventory=self.webpackChunksubscription_inventory||[]).push([[915],{3915:(n,e,t)=>{t.r(e),t.d(e,{default:()=>c});var i=t(2950),r=t.n(i),s=t(334),o=t(6350),u=t(7839);const c=(0,s.withRouter)((function(){return(0,i.useEffect)((function(){var n,e,t;null===(n=insights)||void 0===n||null===(e=n.chrome)||void 0===e||null===(t=e.appAction)||void 0===t||t.call(e,"no-permissions")}),[]),r().createElement(o.Z,null,r().createElement(u.Z,{serviceName:"Inventory"}))}))}}]);
-//# sourceMappingURL=../sourcemaps/915.9ed29c36842986bad1a2.js.map
