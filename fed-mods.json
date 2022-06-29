@@ -1,0 +1,11 @@
+{
+    "subscriptionInventory": {
+        "entry": [
+            "/apps/subscription-inventory/subscriptionInventory.1656534807795.cab14712cf2d45c789fc.js"
+        ],
+        "modules": [
+            "/apps/subscription-inventory/js/5167.1656534807739.cab14712cf2d45c789fc.js",
+            "/apps/subscription-inventory/css/5167.26e4a367456d0ade3ec2.css"
+        ]
+    }
+}
