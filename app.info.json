@@ -1,14 +1,14 @@
 {
   "app_name": "subscription-inventory",
   "node_version": ">=16.0.0",
-  "src_hash": "7399cefaa92aa1c7de83457447f90d2ff910ecea",
+  "src_hash": "b6bf253003456444ca5fe69fac8ab6a977395ddb",
   "src_tag": "",
   "src_branch": "main-stable",
   "patternfly_dependencies": ["@patternfly/patternfly@4.196.7","@patternfly/react-core@4.221.3","@patternfly/react-table@4.90.3"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-utilities@3.2.21","@redhat-cloud-services/frontend-components@3.9.19"],
   "travis": {
     "event_type": "push",
-    "build_number": "445",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/subscription-inventory-ui/builds/258549168"
+    "build_number": "456",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/subscription-inventory-ui/builds/258650974"
   }
 }
