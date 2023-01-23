@@ -1,1 +1,0 @@
-(self.webpackChunksubscription_inventory=self.webpackChunksubscription_inventory||[]).push([[3929,5467,9477],{5467:()=>{}}]);
