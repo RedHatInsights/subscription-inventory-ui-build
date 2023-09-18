@@ -1,10 +1,10 @@
 {
     "subscriptionInventory": {
         "entry": [
-            "/apps/subscription-inventory/subscriptionInventory.a2dbf2a6b58ac262c730.js"
+            "/apps/subscription-inventory/subscriptionInventory.1d61bb777943dd1a8250.js"
         ],
         "modules": [
-            "/apps/subscription-inventory/js/167.a2dbf2a6b58ac262c730.js",
+            "/apps/subscription-inventory/js/167.1d61bb777943dd1a8250.js",
             "/apps/subscription-inventory/css/167.26e4a367456d0ade3ec2.css"
         ]
     }
